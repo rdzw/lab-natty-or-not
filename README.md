@@ -15,7 +15,7 @@ Resumos para cada subtitulo
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://github.com/rdzw/lab-natty-or-not/blob/main/exemplos/Ebook%20marketing%20digital%20moderno%20azul%20cinza%20capa%20para%20ebook.pdf)
 
 ## 💭 Reflexão (Opcional)
 
