@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Criando o Futuro: Um Guia para IAs Generativas ;)
 
 ## 📒 Descrição
 Meu projeto foi a criação de um e-book, utilizei o chatgpt e o leonardo.ai.
